@@ -1,0 +1,6 @@
+# ran locally on Python 3.12, Windows 11 (torch 2.5.1+cu121)
+torch==2.5.1
+transformers==5.12.1
+matplotlib==3.11.2
+nbconvert==7.17.1
+ipykernel==7.3.0
